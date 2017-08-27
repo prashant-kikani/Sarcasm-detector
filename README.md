@@ -5,7 +5,8 @@ Here is link : http://cs229.stanford.edu/proj2015/044_report.pdf<br />
 Other important links...<br />
 http://www.cs.utah.edu/~huangrh/official-sarcasm-cameraReady-v2.pdf<br />
 http://www.aclweb.org/anthology/W13-1605<br />
-<br />
+Classification of positive & negative words is done by using SentiWordnet 3.0 Link : http://sentiwordnet.isti.cnr.it/
+<br /><br />
 Detecting sarcasm is a natural language processing task.<br />
 I made this this project by taking reference of many sites and papers like http://cs229.stanford.edu/proj2015/044_report.pdf<br />
 
